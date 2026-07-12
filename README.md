@@ -10,7 +10,7 @@ It allows users to filter data by year, month, quarter, department, and payment 
 
 ## Dashboard Preview
 
-![Finance Dashboard](Dashboard%20Screenshot/Finance_Dashboard.png)
+![image alt](https://github.com/saloni81/finance-dashboard-excel/blob/95b6515d4557d8b8053a7c696a4d3484aa83debb/Dashboard%20Screenshot.png)
 
 ---
 
